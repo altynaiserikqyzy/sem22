@@ -20,4 +20,5 @@ text = "My name is John, I am " + age
 print(text)
 txt = f"My name is John, I am {age}"
 print(txt)
-txt="They are the so-called \"pirates\" from the Caribbean.\n"
+txt="They are the\n so-called \"pirates\" from the Caribbean.\n"
+
